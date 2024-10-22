@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co.com/RznDS52/programming-script-text-coding-word.jpg",
+        "author_img": "https://i.ibb.co.com/W6gB3MG/5856.jpg",
+        "author_name": "Emily Hawthorne",
+        "post_date": "2023-09-15",
+        "title": "The Future of AI: Trends to Watch",
+        "reading_time": 8,
+        "hash_tag": [
+            "#AI",
+            "#FutureTech",
+            "#Innovation"
+        ]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co.com/LSfjYyw/4864017.jpg",
+        "author_img": "https://i.ibb.co.com/W6gB3MG/5856.jpg",
+        "author_name": "James Benton",
+        "post_date": "2023-10-05",
+        "title": "Sustainability in Modern Architecture",
+        "reading_time": 6,
+        "hash_tag": [
+            "#Architecture",
+            "#Sustainability",
+            "#GreenDesign"
+        ]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co.com/8b43CQ1/5890728.jpg",
+        "author_img": "https://i.ibb.co.com/W6gB3MG/5856.jpg",
+        "author_name": "Sophia Greene",
+        "post_date": "2023-08-22",
+        "title": "How to Build Better Habits",
+        "reading_time": 10,
+        "hash_tag": [
+            "#Habits",
+            "#SelfImprovement",
+            "#Productivity"
+        ]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co.com/ry2hmZF/8392763.jpg",
+        "author_img": "https://i.ibb.co.com/W6gB3MG/5856.jpg",
+        "author_name": "Liam Roberts",
+        "post_date": "2023-07-12",
+        "title": "Exploring the Depths of the Ocean",
+        "reading_time": 12,
+        "hash_tag": [
+            "#Ocean",
+            "#Exploration",
+            "#MarineLife"
+        ]
+    },
+    {
+        "id": 5,
+        "cover_img": "https://i.ibb.co.com/X3KNm8s/8720026.jpg",
+        "author_img": "https://i.ibb.co.com/W6gB3MG/5856.jpg",
+        "author_name": "Olivia Turner",
+        "post_date": "2023-09-30",
+        "title": "The Rise of Electric Vehicles",
+        "reading_time": 7,
+        "hash_tag": [
+            "#ElectricVehicles",
+            "#Sustainability",
+            "#EV"
+        ]
+    }
+]
